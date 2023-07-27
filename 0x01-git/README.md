@@ -1,1 +1,1 @@
-This is the README inside 0x01-git
+This is the README at the root
